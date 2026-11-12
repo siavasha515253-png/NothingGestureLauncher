@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nothing Gesture</string>
+    <string name="search_hint">Search apps…</string>
+    <string name="recent">Recent</string>
+    <string name="frequent">Frequent</string>
+    <string name="all_apps">All</string>
+    <string name="settings">Settings</string>
+    <string name="wallpaper">Wallpaper</string>
+    <string name="gestures">Gestures</string>
+    <string name="appearance">Appearance</string>
+    <string name="about">About</string>
+    <string name="edit_mode">Edit Home</string>
+    <string name="done">Done</string>
+    <string name="no_apps">No apps found</string>
+</resources>
